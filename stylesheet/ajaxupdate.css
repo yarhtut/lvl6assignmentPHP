@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+a{
+    text-decoration:none;
+    color:white;
+
+}
+
+/*-----------------------------------UPDATE UL LI A-----------*/
+
+#social{
+    width:400px;
+    height:300px;
+    margin:auto;
+
+}
+#social ul{
+    width:400px;
+    height:300px;
+    margin:auto;
+
+
+}
+#social input{
+    width:400px;
+    height:60px;
+
+}
